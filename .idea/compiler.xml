@@ -23,10 +23,16 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="configuration-basic" />
+        <module name="profiles" />
+        <module name="profiles-flavour1" />
+        <module name="profiles-flavour2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="configuration-basic" target="1.8" />
+      <module name="profiles" target="1.8" />
+      <module name="profiles-flavour1" target="1.8" />
+      <module name="profiles-flavour2" target="1.8" />
       <module name="SpringBootMicroservices" target="1.8" />
     </bytecodeTargetLevel>
   </component>
