@@ -25,6 +25,7 @@
         <module name="configuration-basic" />
         <module name="data-jdbc" />
         <module name="data-jpa" />
+        <module name="data-redis" />
         <module name="profiles-flavour1" />
         <module name="profiles-flavour2" />
       </profile>
@@ -34,6 +35,7 @@
       <module name="data" target="1.8" />
       <module name="data-jdbc" target="1.8" />
       <module name="data-jpa" target="1.8" />
+      <module name="data-redis" target="1.8" />
       <module name="profiles" target="1.8" />
       <module name="profiles-flavour1" target="1.8" />
       <module name="profiles-flavour2" target="1.8" />
