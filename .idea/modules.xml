@@ -4,8 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBootMicroservices.iml" filepath="$PROJECT_DIR$/SpringBootMicroservices.iml" />
       <module fileurl="file://$PROJECT_DIR$/configuration-basic/configuration-basic.iml" filepath="$PROJECT_DIR$/configuration-basic/configuration-basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/profiles-flavour1/profiles-flavour1.iml" filepath="$PROJECT_DIR$/profiles-flavour1/profiles-flavour1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/profiles-flavour2/profiles-flavour2.iml" filepath="$PROJECT_DIR$/profiles-flavour2/profiles-flavour2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data-jdbc/data-jdbc.iml" filepath="$PROJECT_DIR$/data/data-jdbc/data-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data-jpa/data-jpa.iml" filepath="$PROJECT_DIR$/data/data-jpa/data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profiles/profiles.iml" filepath="$PROJECT_DIR$/profiles/profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profiles/profiles-flavour1/profiles-flavour1.iml" filepath="$PROJECT_DIR$/profiles/profiles-flavour1/profiles-flavour1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profiles/profiles-flavour2/profiles-flavour2.iml" filepath="$PROJECT_DIR$/profiles/profiles-flavour2/profiles-flavour2.iml" />
     </modules>
   </component>
 </project>

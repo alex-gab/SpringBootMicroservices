@@ -1,0 +1,4 @@
+META-INF/spring-configuration-metadata.json
+com/example/configuration/BasicConfiguration.class
+com/example/Application.class
+com/example/configuration/ConfigurationProjectProperties.class

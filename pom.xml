@@ -8,8 +8,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
         <module>configuration-basic</module>
-        <module>profiles-flavour1</module>
-		<module>profiles-flavour2</module>
+        <module>profiles</module>
+		<module>data</module>
 	</modules>
 	<packaging>pom</packaging>
 

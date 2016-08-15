@@ -23,13 +23,17 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="configuration-basic" />
-        <module name="profiles" />
+        <module name="data-jdbc" />
+        <module name="data-jpa" />
         <module name="profiles-flavour1" />
         <module name="profiles-flavour2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="configuration-basic" target="1.8" />
+      <module name="data" target="1.8" />
+      <module name="data-jdbc" target="1.8" />
+      <module name="data-jpa" target="1.8" />
       <module name="profiles" target="1.8" />
       <module name="profiles-flavour1" target="1.8" />
       <module name="profiles-flavour2" target="1.8" />
