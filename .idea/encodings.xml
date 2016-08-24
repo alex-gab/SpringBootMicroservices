@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configuration-basic" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/data-elasticsearch" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data/data-jdbc" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data/data-jpa" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/data/data-redis" charset="UTF-8" />

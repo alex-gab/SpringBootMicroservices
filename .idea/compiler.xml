@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="configuration-basic" />
+        <module name="data-elasticsearch" />
         <module name="data-jdbc" />
         <module name="data-jpa" />
         <module name="data-redis" />
@@ -33,6 +34,7 @@
     <bytecodeTargetLevel>
       <module name="configuration-basic" target="1.8" />
       <module name="data" target="1.8" />
+      <module name="data-elasticsearch" target="1.8" />
       <module name="data-jdbc" target="1.8" />
       <module name="data-jpa" target="1.8" />
       <module name="data-redis" target="1.8" />
