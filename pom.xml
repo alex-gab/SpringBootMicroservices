@@ -10,7 +10,8 @@
         <module>configuration-basic</module>
         <module>profiles</module>
 		<module>data</module>
-	</modules>
+        <module>rest</module>
+    </modules>
 	<packaging>pom</packaging>
 
 	<name>SpringBootMicroservices</name>
