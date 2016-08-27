@@ -16,6 +16,7 @@
         <module>data-jdbc</module>
         <module>data-redis</module>
         <module>data-elasticsearch</module>
+        <module>data-rest</module>
     </modules>
 
 
