@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBootMicroservices.iml" filepath="$PROJECT_DIR$/SpringBootMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration/basic-messaging/basic-messaging.iml" filepath="$PROJECT_DIR$/integration/basic-messaging/basic-messaging.iml" />
       <module fileurl="file://$PROJECT_DIR$/configuration-basic/configuration-basic.iml" filepath="$PROJECT_DIR$/configuration-basic/configuration-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/data-elasticsearch/data-elasticsearch.iml" filepath="$PROJECT_DIR$/data/data-elasticsearch/data-elasticsearch.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/data/data-jpa/data-jpa.iml" filepath="$PROJECT_DIR$/data/data-jpa/data-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/data-redis/data-redis.iml" filepath="$PROJECT_DIR$/data/data-redis/data-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/data-rest/data-rest.iml" filepath="$PROJECT_DIR$/data/data-rest/data-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration/integration.iml" filepath="$PROJECT_DIR$/integration/integration.iml" />
       <module fileurl="file://$PROJECT_DIR$/profiles/profiles.iml" filepath="$PROJECT_DIR$/profiles/profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/profiles/profiles-flavour1/profiles-flavour1.iml" filepath="$PROJECT_DIR$/profiles/profiles-flavour1/profiles-flavour1.iml" />
       <module fileurl="file://$PROJECT_DIR$/profiles/profiles-flavour2/profiles-flavour2.iml" filepath="$PROJECT_DIR$/profiles/profiles-flavour2/profiles-flavour2.iml" />

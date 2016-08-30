@@ -11,6 +11,7 @@
         <module>profiles</module>
 		<module>data</module>
         <module>rest</module>
+        <module>integration</module>
     </modules>
 	<packaging>pom</packaging>
 
