@@ -14,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/profiles/profiles-flavour2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rest" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rest/rest-basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rest/rest-errors" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

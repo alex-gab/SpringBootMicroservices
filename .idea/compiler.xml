@@ -31,6 +31,7 @@
         <module name="profiles-flavour1" />
         <module name="profiles-flavour2" />
         <module name="rest-basic" />
+        <module name="rest-errors" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -46,6 +47,7 @@
       <module name="profiles-flavour2" target="1.8" />
       <module name="rest" target="1.8" />
       <module name="rest-basic" target="1.8" />
+      <module name="rest-errors" target="1.8" />
       <module name="SpringBootMicroservices" target="1.8" />
     </bytecodeTargetLevel>
   </component>
