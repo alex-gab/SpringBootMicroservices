@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/data-elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/integration/pom.xml" />
+        <option value="$PROJECT_DIR$/integration/basic-messaging/pom.xml" />
       </list>
     </option>
   </component>
