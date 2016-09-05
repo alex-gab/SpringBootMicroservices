@@ -16,6 +16,7 @@ public class MessagingApp {
     }
 
     @Bean
+    @SuppressWarnings("Duplicates")
     public InitializingBean prepareQueues(AmqpAdmin amqpAdmin) {
         return () -> {
             final Queue queue = new Queue(NOTIFICATIONS, true);

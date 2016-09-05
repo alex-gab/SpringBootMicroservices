@@ -29,6 +29,7 @@
         <module name="data-jpa" />
         <module name="data-redis" />
         <module name="data-rest" />
+        <module name="eai" />
         <module name="profiles-flavour1" />
         <module name="profiles-flavour2" />
         <module name="rest-basic" />
@@ -44,6 +45,7 @@
       <module name="data-jpa" target="1.8" />
       <module name="data-redis" target="1.8" />
       <module name="data-rest" target="1.8" />
+      <module name="eai" target="1.8" />
       <module name="integration" target="1.8" />
       <module name="profiles" target="1.8" />
       <module name="profiles-flavour1" target="1.8" />

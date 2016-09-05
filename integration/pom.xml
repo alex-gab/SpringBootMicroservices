@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>basic-messaging</module>
+        <module>eai</module>
     </modules>
 
     <artifactId>integration</artifactId>

@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/data/data-jpa/data-jpa.iml" filepath="$PROJECT_DIR$/data/data-jpa/data-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/data-redis/data-redis.iml" filepath="$PROJECT_DIR$/data/data-redis/data-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/data/data-rest/data-rest.iml" filepath="$PROJECT_DIR$/data/data-rest/data-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/integration/eai/eai.iml" filepath="$PROJECT_DIR$/integration/eai/eai.iml" />
       <module fileurl="file://$PROJECT_DIR$/integration/integration.iml" filepath="$PROJECT_DIR$/integration/integration.iml" />
       <module fileurl="file://$PROJECT_DIR$/profiles/profiles.iml" filepath="$PROJECT_DIR$/profiles/profiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/profiles/profiles-flavour1/profiles-flavour1.iml" filepath="$PROJECT_DIR$/profiles/profiles-flavour1/profiles-flavour1.iml" />
